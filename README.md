@@ -2,6 +2,10 @@
 
 $ ssh-keygen -t rsa -C "yetohello@163.com"
 
+验证是否成功，在git bash下输入
+
+$ ssh -T git@github.com
+
 # github_teach
 克隆github库到本地：
 
