@@ -1,3 +1,7 @@
+首先在本地创建ssh key
+
+$ ssh-keygen -t rsa -C "yetohello@163.com"
+
 # github_teach
 克隆github库到本地：
 
