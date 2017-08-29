@@ -16,10 +16,7 @@
 
     $ git push origin master
 
-   
-
-
 其他参考代码：
      $ git pull --rebase origin master
      $ git push -u origin master
-     $ git remote add origin git@github.com:michaelliao/learngit.git
+     $ git remote add origin git@github.com:yetohello/yetohello.io.git
