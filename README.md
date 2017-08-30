@@ -25,6 +25,10 @@ $ ssh -T git@github.com
     $ git push origin master
 
 其他参考代码：
+     进行代码合并
      $ git pull --rebase origin master
-     $ git push -u origin master
+     连接到git库
      $ git remote add origin git@github.com:yetohello/yetohello.io.git
+     第一次提交，全部上传
+     $ git push -u origin master
+    
