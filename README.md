@@ -11,9 +11,9 @@
 
    $ git clone git@github.com:yetohelo/test.git  
 
-   * ### 禁止转换字符  （CRLF FL 错误）：
+      * ### 禁止转换字符  （CRLF FL 错误）：  
       $ git config --gobal core.autocrlf false   
-      $ git config core.autocrlf false  
+      $ git config core.autocrlf false    
       
 * ## 添加 到缓存区：
 
@@ -25,10 +25,10 @@
     $ git push origin master  
 
 * ## 其他参考代码：
-     * ###进行代码合并
-     $ git pull --rebase origin master  
+     * ### 进行代码合并
+       $ git pull --rebase origin master  
      * ### 连接到git库
-     $ git remote add origin git@github.com:yetohello/yetohello.io.git  
+       $ git remote add origin git@github.com:yetohello/yetohello.io.git  
      * ### 第一次提交，全部上传
-     $ git push -u origin master  
+       $ git push -u origin master  
     
