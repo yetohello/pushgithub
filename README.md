@@ -13,7 +13,7 @@
 
 * ### 禁止转换字符  （CRLF FL 错误）：  
       $ git config --gobal core.autocrlf false  
-      $ git config core.autocrlf false  
+        $ git config core.autocrlf false  
       
 * ## 添加 到缓存区：
 
